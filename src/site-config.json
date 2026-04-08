@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "1st Generation Electric LLC",
+    "phone": "+14047894596",
+    "category": "electrical contractor",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Atlanta's Trusted Electrical Experts",
+      "heroSubline": "Powering homes and businesses across the metro area with reliable, professional service. Licensed, insured, and ready for any electrical challenge.",
+      "aboutTitle": "Powering Atlanta, One Connection at a Time",
+      "aboutText": [
+        "1st Generation Electric LLC isn't just a name, it's our story. Founded over a decade ago in Atlanta, we started with a simple mission: to provide honest, dependable electrical services to our neighbors. We saw a need for contractors who valued quality workmanship and clear communication, and we built our business on those principles.",
+        "We tackle every job, from routine repairs to complex installations, with the same level of dedication. Our team is equipped to handle the unique challenges of Atlanta's diverse housing stock, from historic bungalows in Virginia-Highland to modern high-rises downtown. We understand the impact of Atlanta's climate – the heavy spring thunderstorms and occasional ice storms – and build our solutions to withstand them.",
+        "We're proud to be a part of the Atlanta community. We support local schools and organizations, and we prioritize hiring local talent. When you choose 1st Generation Electric, you're not just getting an electrical contractor; you're supporting a local business that's invested in the future of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Rapid Response",
+          "description": "We understand electrical problems can't wait. Expect prompt, reliable service when you need it most."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our licensed and insured electricians are highly trained and experienced in all aspects of electrical work."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Get a Free Electrical Estimate Today",
+      "ctaSubline": "Contact us now to discuss your project and receive a no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair Services",
+        "shortDescription": "Fast, reliable electrical repairs for homes and businesses in Atlanta.",
+        "description": "From flickering lights to complete power outages, 1st Generation Electric provides comprehensive electrical repair services throughout Atlanta. We understand that electrical issues can be disruptive and even dangerous, which is why we offer prompt, reliable service to diagnose and resolve any problem. Our experienced electricians are equipped to handle a wide range of repairs, including faulty wiring, damaged outlets, breaker panel issues, and more.\n\nAtlanta's older homes, especially those in neighborhoods like Inman Park and Virginia-Highland, often require specialized electrical repairs due to aging wiring and outdated systems. We have extensive experience working with these types of homes and can ensure that your electrical system is safe, reliable, and up to code. We also address the unique challenges posed by Atlanta's climate, such as storm damage and moisture-related electrical issues.\n\nWe prioritize safety in all of our repairs. Our electricians adhere to the highest safety standards and use only quality materials to ensure lasting results. We also provide thorough inspections to identify potential hazards and prevent future problems. Whether you need a simple outlet repair or a complex wiring issue resolved, you can trust 1st Generation Electric to provide expert service and peace of mind.",
+        "process": [
+          "Step 1: Contact us to describe your electrical issue.",
+          "Step 2: We'll schedule a convenient appointment for a diagnostic assessment.",
+          "Step 3: Our electrician will arrive on time, assess the problem, and provide a clear explanation and upfront pricing.",
+          "Step 4: Upon your approval, we'll complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Quick response times",
+          "Experienced and licensed electricians",
+          "Upfront and transparent pricing",
+          "Safe and reliable repairs"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical repair request?",
+            "answer": "We understand that electrical problems require prompt attention. We strive to respond to all repair requests as quickly as possible, often within the same day."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are fully licensed and insured to provide electrical services in the state of Georgia. This ensures that our work meets the highest safety and quality standards."
+          },
+          {
+            "question": "What types of electrical repairs do you handle?",
+            "answer": "We handle a wide range of electrical repairs, including faulty wiring, damaged outlets, breaker panel issues, lighting repairs, and more. No job is too big or too small for our experienced team."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installation",
+        "name": "Electrical Installation Services",
+        "shortDescription": "Professional electrical installations for new construction and remodeling projects.",
+        "description": "1st Generation Electric provides expert electrical installation services for new construction, remodeling projects, and upgrades throughout the Atlanta metro area. Whether you're building a new home in Buckhead, renovating a kitchen in Midtown, or adding an addition to your home in Decatur, we have the expertise to handle all of your electrical needs.\n\nWe work closely with homeowners, builders, and contractors to ensure that all electrical installations are completed to the highest standards and meet all applicable codes. Our services include wiring, lighting installation, outlet and switch installation, panel upgrades, and more. We understand the importance of proper electrical planning and design, and we can provide expert guidance to ensure that your electrical system is safe, efficient, and meets your specific needs.\n\nWe also offer specialized installation services for smart home technology, electric vehicle chargers, and other advanced electrical systems. With the increasing popularity of electric vehicles in Atlanta, we can help you install a Level 2 charger in your home for fast and convenient charging. We are committed to providing innovative and reliable electrical solutions to meet the evolving needs of our clients.",
+        "process": [
+          "Step 1: Contact us to discuss your electrical installation needs.",
+          "Step 2: We'll schedule a consultation to review your project plans and provide a detailed estimate.",
+          "Step 3: Our experienced electricians will complete the installation efficiently and safely.",
+          "Step 4: We'll conduct a thorough inspection to ensure that all work meets our high standards."
+        ],
+        "benefits": [
+          "Expert electrical design and planning",
+          "Compliance with all applicable codes",
+          "Professional and efficient installation",
+          "Warranty on all workmanship"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer electrical design services?",
+            "answer": "Yes, we offer comprehensive electrical design services to ensure that your electrical system meets your specific needs and complies with all applicable codes."
+          },
+          {
+            "question": "Are you familiar with local building codes?",
+            "answer": "Yes, we have extensive knowledge of local building codes and regulations in the Atlanta metro area. We ensure that all of our electrical installations meet or exceed these requirements."
+          },
+          {
+            "question": "Do you offer financing options for electrical installations?",
+            "answer": "We offer flexible financing options to make your electrical installation project more affordable. Contact us to learn more about our financing options."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-solutions",
+        "name": "Lighting Solutions & Installation",
+        "shortDescription": "Enhance your home or business with custom lighting design and installation.",
+        "description": "1st Generation Electric specializes in creating custom lighting solutions for homes and businesses throughout Atlanta. From energy-efficient LED lighting upgrades to dramatic accent lighting, we can help you transform your space with the perfect lighting design. We understand the importance of lighting in creating ambiance, improving functionality, and enhancing curb appeal.\n\nAtlanta's diverse architecture, from historic homes to modern high-rises, requires a nuanced approach to lighting design. We take into account the specific characteristics of your property and your personal preferences to create a lighting plan that is both beautiful and functional. We offer a wide range of lighting options, including recessed lighting, pendant lighting, track lighting, landscape lighting, and more.\n\nWe also offer expert installation services for all types of lighting fixtures. Our experienced electricians ensure that all lighting installations are completed safely and efficiently, and that all wiring is properly connected. Whether you're looking to upgrade your existing lighting or install a completely new lighting system, you can trust 1st Generation Electric to provide expert service and exceptional results.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your lighting needs and preferences.",
+          "Step 2: We'll create a custom lighting design plan tailored to your space and budget.",
+          "Step 3: Our experienced electricians will install your new lighting fixtures efficiently and safely.",
+          "Step 4: We'll conduct a final inspection to ensure that you're completely satisfied with the results."
+        ],
+        "benefits": [
+          "Custom lighting design",
+          "Energy-efficient lighting options",
+          "Professional installation",
+          "Enhanced ambiance and functionality"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer energy-efficient lighting options?",
+            "answer": "Yes, we offer a wide range of energy-efficient lighting options, including LED lighting, which can save you money on your energy bills and reduce your carbon footprint."
+          },
+          {
+            "question": "Can you help me choose the right lighting fixtures for my space?",
+            "answer": "Yes, our experienced lighting designers can help you choose the perfect lighting fixtures to complement your style and enhance the functionality of your space."
+          },
+          {
+            "question": "Do you offer landscape lighting services?",
+            "answer": "Yes, we offer landscape lighting services to enhance the beauty and security of your outdoor spaces."
+          }
+        ]
+      },
+      {
+        "slug": "panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your outdated electrical panel for increased safety and capacity.",
+        "description": "1st Generation Electric specializes in electrical panel upgrades for homes and businesses in Atlanta. An outdated or overloaded electrical panel can be a safety hazard and can limit your ability to power all of your appliances and devices. If you're experiencing frequent breaker trips, flickering lights, or other electrical problems, it may be time to upgrade your electrical panel.\n\nAtlanta's older homes, particularly those in historic neighborhoods, often have outdated electrical panels that are not equipped to handle the demands of modern living. Upgrading your electrical panel can provide increased safety, reliability, and capacity, allowing you to power all of your appliances and devices without worry. We offer a wide range of electrical panel upgrade options to meet your specific needs and budget.\n\nOur experienced electricians will assess your current electrical panel, determine the appropriate size for your new panel, and complete the upgrade safely and efficiently. We ensure that all work meets or exceeds all applicable codes and regulations. We also provide a thorough inspection to ensure that your new electrical panel is functioning properly and safely.",
+        "process": [
+          "Step 1: Schedule an assessment of your current electrical panel.",
+          "Step 2: We'll determine the appropriate size and type of panel for your needs and provide a detailed estimate.",
+          "Step 3: Our experienced electricians will complete the panel upgrade safely and efficiently.",
+          "Step 4: We'll conduct a thorough inspection to ensure that your new panel is functioning properly."
+        ],
+        "benefits": [
+          "Increased safety and reliability",
+          "Increased electrical capacity",
+          "Compliance with all applicable codes",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need to upgrade my electrical panel?",
+            "answer": "If you're experiencing frequent breaker trips, flickering lights, or other electrical problems, it may be time to upgrade your electrical panel. An outdated electrical panel can also be a safety hazard."
+          },
+          {
+            "question": "How long does it take to upgrade an electrical panel?",
+            "answer": "The time it takes to upgrade an electrical panel depends on the complexity of the job, but it typically takes between 4 and 8 hours."
+          },
+          {
+            "question": "Do I need a permit to upgrade my electrical panel?",
+            "answer": "Yes, a permit is typically required to upgrade an electrical panel. We will handle all of the necessary permitting for you."
+          }
+        ]
+      },
+      {
+        "slug": "surge-protection",
+        "name": "Whole-Home Surge Protection",
+        "shortDescription": "Protect your valuable electronics from damaging power surges.",
+        "description": "1st Generation Electric provides whole-home surge protection services to protect your valuable electronics from damaging power surges. Power surges can occur due to lightning strikes, power outages, or even everyday appliance use. These surges can damage or destroy your televisions, computers, appliances, and other electronic devices.\n\nAtlanta's frequent thunderstorms, especially during the spring, make homes particularly vulnerable to lightning strikes and power surges. A whole-home surge protector can provide comprehensive protection for all of your electronic devices by diverting excess voltage away from your electrical system. We offer a variety of surge protection options to meet your specific needs and budget.\n\nOur experienced electricians will install a surge protector at your electrical panel, providing protection for your entire home. We use only high-quality surge protectors from trusted brands. We also provide a thorough inspection to ensure that your surge protector is functioning properly and providing adequate protection.",
+        "process": [
+          "Step 1: Schedule an assessment of your electrical system.",
+          "Step 2: We'll recommend the appropriate surge protection solution for your needs and budget.",
+          "Step 3: Our experienced electricians will install the surge protector at your electrical panel.",
+          "Step 4: We'll conduct a thorough inspection to ensure that your surge protector is functioning properly."
+        ],
+        "benefits": [
+          "Protection for all of your electronic devices",
+          "Prevention of costly repairs and replacements",
+          "Peace of mind",
+          "Increased safety"
+        ],
+        "faq": [
+          {
+            "question": "What is a whole-home surge protector?",
+            "answer": "A whole-home surge protector is a device that is installed at your electrical panel to protect all of your electronic devices from damaging power surges."
+          },
+          {
+            "question": "How does a whole-home surge protector work?",
+            "answer": "A whole-home surge protector diverts excess voltage away from your electrical system, preventing it from damaging your electronic devices."
+          },
+          {
+            "question": "How much does it cost to install a whole-home surge protector?",
+            "answer": "The cost of installing a whole-home surge protector depends on the type of surge protector and the complexity of the installation. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "ev-charger-installation",
+        "name": "Electric Vehicle (EV) Charger Installation",
+        "shortDescription": "Expert installation of EV chargers for convenient home charging.",
+        "description": "As electric vehicles become more popular in Atlanta, 1st Generation Electric is here to provide expert EV charger installation services for your home. Installing a Level 2 EV charger allows you to charge your electric vehicle quickly and conveniently from the comfort of your own home. We offer a variety of EV charger options to meet your specific needs and budget, and our experienced electricians will ensure that your charger is installed safely and efficiently.\n\nWe understand the unique electrical requirements of EV chargers and can help you determine the best location and wiring setup for your charger. We also handle all of the necessary permitting and inspections to ensure that your installation meets all applicable codes and regulations. With the increasing availability of electric vehicle charging stations along the BeltLine and throughout Atlanta, having a home charging solution provides unmatched convenience.\n\nWhether you're a new EV owner or you're looking to upgrade your existing charging setup, 1st Generation Electric is here to help. We are committed to providing reliable and affordable EV charger installation services to support the growing electric vehicle community in Atlanta.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your EV charger needs.",
+          "Step 2: We'll assess your electrical system and recommend the appropriate charger and installation setup.",
+          "Step 3: Our experienced electricians will install your EV charger safely and efficiently.",
+          "Step 4: We'll ensure that your charger is functioning properly and that you understand how to use it."
+        ],
+        "benefits": [
+          "Convenient home charging",
+          "Faster charging times",
+          "Increased property value",
+          "Support for sustainable transportation"
+        ],
+        "faq": [
+          {
+            "question": "What is a Level 2 EV charger?",
+            "answer": "A Level 2 EV charger uses a 240-volt outlet to provide faster charging times than a standard 120-volt outlet."
+          },
+          {
+            "question": "Do I need a special electrical outlet for an EV charger?",
+            "answer": "Yes, a Level 2 EV charger requires a dedicated 240-volt outlet. We can install the necessary outlet as part of the charger installation process."
+          },
+          {
+            "question": "How long does it take to charge an electric vehicle with a Level 2 charger?",
+            "answer": "The charging time depends on the size of the vehicle's battery and the charging capacity of the charger, but it typically takes between 4 and 8 hours to fully charge an electric vehicle with a Level 2 charger."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Marietta",
+        "slug": "marietta-ga",
+        "state": "GA",
+        "content": "1st Generation Electric LLC is proud to provide comprehensive electrical services to the residents and businesses of Marietta, Georgia. With its established subdivisions dating back to the 1960s and 70s, Marietta presents unique electrical needs, from updating older wiring systems to ensuring safety and efficiency in homes and commercial buildings. We understand the importance of reliable electrical service, especially during the hot, humid Georgia summers when air conditioning and cooling systems are essential.",
+        "localContext": "Marietta is a vibrant city with a rich history and diverse community, characterized by its mix of older homes and growing business sector.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Kennesaw",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Roswell",
+        "slug": "roswell-ga",
+        "state": "GA",
+        "content": "1st Generation Electric LLC is dedicated to serving the electrical needs of Roswell, GA, a city known for its upscale subdivisions developed in the 1980s and 90s. We offer a full range of services, including new construction wiring, electrical upgrades, and troubleshooting. Roswell's residents can rely on us for prompt and professional service, especially critical during the hot and humid summer months when electrical systems are heavily used.",
+        "localContext": "Roswell is known for its beautiful neighborhoods, excellent schools, and thriving business environment, creating a high demand for quality electrical services.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Marietta",
+          "Sandy Springs"
+        ]
+      },
+      {
+        "city": "Alpharetta",
+        "slug": "alpharetta-ga",
+        "state": "GA",
+        "content": "1st Generation Electric LLC provides top-notch electrical services to the growing community of Alpharetta, GA. With its upscale developments from the 1990s and 2000s, Alpharetta demands modern and efficient electrical solutions. We specialize in everything from smart home installations to energy-efficient lighting upgrades. 1st Generation Electric is dedicated to keeping Alpharetta powered safely and reliably, especially during the hot and humid summers when electrical demands are at their peak.",
+        "localContext": "Alpharetta is a dynamic city known for its technology hub, upscale residential areas, and commitment to sustainability.",
+        "nearbyAreas": [
+          "Roswell",
+          "Johns Creek",
+          "Milton"
+        ]
+      },
+      {
+        "city": "Johns Creek",
+        "slug": "johns-creek-ga",
+        "state": "GA",
+        "content": "1st Generation Electric LLC is proud to offer comprehensive electrical services to the residents and businesses of Johns Creek, GA. Known for its upscale subdivisions built in the 1990s and 2000s, Johns Creek requires high-quality electrical solutions, including custom lighting designs, home automation systems, and reliable power for sophisticated appliances. We understand the importance of dependable electrical service, particularly during the hot, humid Georgia summers.",
+        "localContext": "Johns Creek is a well-planned community with a focus on quality of life, excellent schools, and a strong sense of community.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Suwanee",
+          "Duluth"
+        ]
+      },
+      {
+        "city": "Kennesaw",
+        "slug": "kennesaw-ga",
+        "state": "GA",
+        "content": "1st Generation Electric LLC is dedicated to providing reliable and affordable electrical services to the residents and businesses of Kennesaw, GA. With its suburban developments dating back to the 1980s and 90s, Kennesaw presents a variety of electrical needs, from updating older homes to installing new electrical systems in expanding businesses. We are committed to keeping Kennesaw powered safely and efficiently, especially during the hot, humid Georgia summers.",
+        "localContext": "Kennesaw is a family-friendly city with a strong sense of community, a growing business sector, and a commitment to preserving its history.",
+        "nearbyAreas": [
+          "Marietta",
+          "Acworth",
+          "Woodstock"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-ga",
+        "state": "GA",
+        "content": "1st Generation Electric LLC is proud to offer electrical services to the residents and businesses of Smyrna, GA. Smyrna's diverse housing stock and growing commercial sector require a wide range of electrical services. We provide everything from basic repairs to complex installations, ensuring that Smyrna remains powered safely and efficiently. We understand the importance of reliable electrical service, especially during the hot, humid Georgia summers when air conditioning and cooling systems are essential.",
+        "localContext": "Smyrna is a vibrant city with a mix of residential and commercial areas, known for its convenient location and strong community spirit.",
+        "nearbyAreas": [
+          "Marietta",
+          "Vinings",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Sandy Springs",
+        "slug": "sandy-springs-ga",
+        "state": "GA",
+        "content": "1st Generation Electric LLC is committed to providing high-quality electrical services to the residents and businesses of Sandy Springs, GA. Sandy Springs is known for its affluent neighborhoods and thriving business community. We offer a full spectrum of electrical services, from routine maintenance to complex installations, ensuring the safety and reliability of your electrical systems. Residents and businesses alike can rely on us for prompt and professional service, particularly during the hot Georgia summers.",
+        "localContext": "Sandy Springs is an upscale city with a mix of residential areas, commercial districts, and beautiful natural landscapes.",
+        "nearbyAreas": [
+          "Roswell",
+          "Dunwoody",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Dunwoody",
+        "slug": "dunwoody-ga",
+        "state": "GA",
+        "content": "1st Generation Electric LLC is pleased to offer its expertise in electrical services to the residents and businesses of Dunwoody, GA. Dunwoody's mix of established neighborhoods and commercial centers requires a wide array of electrical services. We are equipped to handle everything from minor repairs to comprehensive installations, ensuring safe and reliable power. We are dedicated to serving the Dunwoody community with professionalism and expertise, especially during the peak demand of summer.",
+        "localContext": "Dunwoody is a vibrant city known for its excellent schools, beautiful parks, and thriving business community.",
+        "nearbyAreas": [
+          "Sandy Springs",
+          "Roswell",
+          "Brookhaven"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "1st Generation Electric did an amazing job upgrading our electrical panel. We were having issues with breakers constantly tripping, and they quickly diagnosed the problem and recommended a new panel. The installation was smooth and professional, and we haven't had any problems since. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We hired 1st Generation Electric to install new recessed lighting in our kitchen. The electrician was on time, courteous, and did a great job. The lighting looks fantastic and really brightens up the space. Only reason for 4 stars is that the initial quote was slightly lower than the final bill, but it was due to some unforeseen wiring issues.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "Our lights went out during a storm, and 1st Generation Electric was able to come out quickly and fix the problem. The electrician was very knowledgeable and explained everything clearly. We appreciated their prompt and reliable service!",
+        "date": "2024-10-27"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "EV Charger Installation",
+        "text": "1st Generation Electric installed our Level 2 EV charger, and the process was seamless. They handled all of the permitting and inspections, and the installation was completed quickly and professionally. We're now able to charge our electric vehicle at home with ease!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Surge Protection",
+        "text": "After a close call with a lightning strike, we decided to install a whole-home surge protector. 1st Generation Electric provided a great solution and installed it efficiently. Feel much safer now. Quick and easy to schedule.",
+        "date": "2024-05-20"
+      },
+      {
+        "name": "Kevin R.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Our older home needed an electrical panel upgrade badly. 1st Generation Electric walked us through the options, explained all the code requirements clearly, and then did a fantastic job with the install. These guys are pros!",
+        "date": "2024-02-14"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Atlanta Electrician | 1st Generation Electric",
+        "description": "Reliable electrical services in Atlanta, GA. Repairs, installations, panel upgrades & more. Licensed & insured. Call 404-789-4596."
+      },
+      "about": {
+        "title": "About Us | 1st Generation Electric Atlanta",
+        "description": "Learn about 1st Generation Electric LLC, your trusted Atlanta electrician. Family-owned, licensed, and committed to quality workmanship."
+      },
+      "services": {
+        "title": "Electrical Services | Atlanta, GA",
+        "description": "Comprehensive electrical services in Atlanta. Repairs, installations, lighting, panel upgrades, EV chargers. Get a free estimate today!"
+      },
+      "contact": {
+        "title": "Contact Us | 1st Generation Electric Atlanta",
+        "description": "Contact 1st Generation Electric for your electrical needs in Atlanta. Call 404-789-4596 or fill out our online form for a free quote."
+      },
+      "reviews": {
+        "title": "Customer Reviews | 1st Generation Electric",
+        "description": "Read what our customers are saying about 1st Generation Electric in Atlanta. Honest reviews, quality service, and satisfied clients."
+      },
+      "service-areas": {
+        "title": "Service Areas | 1st Generation Electric",
+        "description": "1st Generation Electric provides electrical services throughout the Atlanta metro area. Check if we serve your neighborhood!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installation": "/images/service-electrical-installation.webp",
+      "lighting-solutions": "/images/service-lighting-solutions.webp",
+      "panel-upgrades": "/images/service-panel-upgrades.webp",
+      "surge-protection": "/images/service-surge-protection.webp",
+      "ev-charger-installation": "/images/service-ev-charger-installation.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installation": {
+        "src": "/images/service-electrical-installation.webp",
+        "srcset": "/images/service-electrical-installation-400w.webp 400w, /images/service-electrical-installation-800w.webp 800w, /images/service-electrical-installation-1200w.webp 1200w, /images/service-electrical-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-solutions": {
+        "src": "/images/service-lighting-solutions.webp",
+        "srcset": "/images/service-lighting-solutions-400w.webp 400w, /images/service-lighting-solutions-800w.webp 800w, /images/service-lighting-solutions-1200w.webp 1200w, /images/service-lighting-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "panel-upgrades": {
+        "src": "/images/service-panel-upgrades.webp",
+        "srcset": "/images/service-panel-upgrades-400w.webp 400w, /images/service-panel-upgrades-800w.webp 800w, /images/service-panel-upgrades-1200w.webp 1200w, /images/service-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "surge-protection": {
+        "src": "/images/service-surge-protection.webp",
+        "srcset": "/images/service-surge-protection-400w.webp 400w, /images/service-surge-protection-800w.webp 800w, /images/service-surge-protection-1200w.webp 1200w, /images/service-surge-protection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ev-charger-installation": {
+        "src": "/images/service-ev-charger-installation.webp",
+        "srcset": "/images/service-ev-charger-installation-400w.webp 400w, /images/service-ev-charger-installation-800w.webp 800w, /images/service-ev-charger-installation-1200w.webp 1200w, /images/service-ev-charger-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
